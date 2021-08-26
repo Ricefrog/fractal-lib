@@ -1,4 +1,4 @@
-package fractal-lib
+package render
 
 import (
 	"github.com/lucasb-eyer/go-colorful"
